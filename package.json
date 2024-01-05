@@ -1,0 +1,15 @@
+{
+  "name": "unknownbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/bot.js",
+  "keywords": [],
+  "author": "UnknownGamer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "ms": "^2.1.3",
+    "stack": "^0.1.0"
+  }
+}
